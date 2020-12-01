@@ -1,0 +1,78 @@
+h1{
+    background-color: black;
+    color: white;
+    margin:0%;
+}
+.disc{
+    margin:0px;
+    width:70%;
+    display: inline-block;
+    padding: 0;
+}
+.list{
+    list-style-type: none;
+    margin:4%;
+    padding:2px;
+}
+.time{
+    margin: 0;
+    padding: 0;
+    width:20%;
+    display:inline-block;
+    background-color: grey;
+    height: 570px;
+}
+.footer{
+    background-color: rgb(94, 76, 76);
+    margin-top: 0%;
+    text-align: center;
+    padding:1px;
+}
+
+.para{
+    padding: 20px;
+    margin: 1px;
+    border: 20px;
+    background-color: grey;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.teble,th,td{
+    padding: 20px;
+    background: rgb(216, 216, 219);
+    margin: 10px;
+    border: 1px solid rgb(155, 127, 127);
+}
+
+.class1{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: green;
+    margin: 30px;
+    display: inline-block;
+    
+}
+.real{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: green;
+    margin: 30px;
+    display: inline-block;
+
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
